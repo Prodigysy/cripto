@@ -1,0 +1,15 @@
+# Игнорирование: методички и тяжёлые PDF не выкладываются
+*.pdf
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+
+# Служебные временные файлы
+ocr.ps1
+render/
+render300/
+results_run.txt
